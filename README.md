@@ -70,6 +70,28 @@ Mostrando 3 secciones:
 [(' 01', ' 001'), (' 01', ' 002'), (' 01', ' 003')]
 ##############################################################
 
+TEST DE LA FUNCIÓN barrios_residen_personas_de_un_pais
+
+Los distintos barrios con nacionales de Tchad son: ['TRIANA ESTE', 'TRIANA CASCO ANTIGUO', 'TIRO DE LINEA-SANTA GENOVEVA', 'SECTOR SUR-LA PALMERA-REINA MERCEDES', 'SAN ROQUE', 'SAN JULIAN', 'SAN JOSE OBRERO', 'PALACIO DE CONGRESOS, URBADIEZ, ENTREPUENTES', 'LOS REMEDIOS', 'HUERTA DEL PILAR', 'HERMANDADES-LA CARRASCA', 'EL PORVENIR', 'CRUZ ROJA-CAPUCHINOS', 'COLORES, ENTREPARQUES']
+
+#####################################################################
+
+TEST DE LA FUNCIÓN promedio_extranjeros_de_pais
+
+El promedio de nacionales de tchad es 1.1875
+
+El promedio de nacionales de España es None
+####################################################################
+
+TEST DE LA FUNCIÓN barrio_sección_y_pais_con_mas_extranjeros_de_sexo
+
+EL barrio, sección y_país con_más_extranjeros_de_sexo Hombre es: ('TORREBLANCA ', ' 018', 'NO CONSTA', 108)
+
+EL barrio, sección y_país con_más_extranjeros_de_sexo Mujer es: ('EL CEREZO', ' 012', 'BOLIVIA', 114)
+
+EL barrio, sección y_país con_más_extranjeros es: ('EL CEREZO', ' 012', 'BOLIVIA', 188)
+#####################################################################
+
 TEST DE LA FUNCIÓN total_extranjeros_por_pais:
 Mostrando el número de residentes para algunos países de procedencia:
 ALEMANIA: 2074
